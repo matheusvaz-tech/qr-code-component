@@ -4,7 +4,7 @@
 
 > This is the first challenge proposed by the Frontend Mentor platform to test (and improve) HTML and CSS knowledge
 
-[🔗 Click here to access the website](https://matheusvaz-dev.github.io/sidebar/)
+[🔗 Click here to access the website](https://github.com/matheusvaz-dev/qr-code-component)
 
 ## 🛠️ Technologies
 
